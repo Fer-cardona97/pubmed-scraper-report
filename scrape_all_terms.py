@@ -53,7 +53,7 @@ def add_results_to_doc(doc, term, articles):
 if __name__ == "__main__":
     search_terms = ["anger", "traffic" ]
     max_articles_per_term = 50
-    output_dir = "C:/Users/FernanDcardona/Desktop/Experiment/Web_Scrapping_Results/"
+    output_dir = "output/"
     doc = Document()
     combined_articles = []
 
